@@ -1,1 +1,1 @@
-# Finding-Donors
+# Finding-Donors machine learning project (Classification)
